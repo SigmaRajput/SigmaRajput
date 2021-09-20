@@ -5,7 +5,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://twitter.com/Singh__ji__">
   <img align="left" alt="SigmaRajput's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/ravi-singh-2799b9156">
+<a href="https://www.linkedin.com/in/ravi-singh-2799b9156/">
   <img align="left" alt="SigmaRajput's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SigmaRajput/">
@@ -30,7 +30,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 
 
-- 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
+- 🔭 I’m currently working as a competetive programmer.
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/16566598/ravi-singh).
 - 🤔 I’m looking for help with Competetive programming.
