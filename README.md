@@ -5,7 +5,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://twitter.com/Singh__ji__">
   <img align="left" alt="SigmaRajput's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/ravi-singh-2799b9156/">
+<a href="www.linkedin.com/in/ravi-singh-2799b9156">
   <img align="left" alt="SigmaRajput's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SigmaRajput/">
@@ -35,7 +35,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/16566598/ravi-singh).
 - 🤔 I’m looking for help with Competetive programming.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @SigmaRajput](https://twitter.com/Singh__ji__) , [Youtube - @SigmaRajput](https://www.youtube.com/channel/UCEJiVGiDl5SgLtUvuTQdFQA)
+- 📫 How to reach me: [Twitter - @Singh__ji__](https://twitter.com/Singh__ji__) , [Youtube - @SigmaRajput](https://www.youtube.com/channel/UCEJiVGiDl5SgLtUvuTQdFQA)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.        
            
