@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Linkedin: SigmaRajput](https://img.shields.io/badge/-SigmaRajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravi-singh-2799b9156/)](https://www.linkedin.com/in/ravi-singh-2799b9156/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sakarwar_ji/) 
 [![GitHub SigmaRajput](https://img.shields.io/github/followers/SigmaRajput?label=follow&style=social)](https://github.com/SigmaRajput)
-[![website](https://img.shields.io/badge/Portfolio-SigmaRajput.tech-2648ff?style=flat-square&logo=google-chrome)](http://SigmaRajput.tech/)
+[![website](https://img.shields.io/badge/Portfolio-SigmaRajput.tech-2648ff?style=flat-square&logo=google-chrome)](https://sigmarajput.github.io/Portfolio/)
 
 **Languages and Tools:**  
 
